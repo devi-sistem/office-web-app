@@ -40,3 +40,9 @@ Once you have an account, go to https://portal.azure.com and sign in.
 Navigate to Azure Active Directory:
 In the Azure portal, look for "Azure Active Directory" in the left-hand menu or search for it in the search bar
 and then follow the steps as per azure
+
+
+for local run go to folder directory office-web-app
+then run following command -
+1. bun install
+2. bun run dev
